@@ -11,6 +11,5 @@ public class DetallePedido
     public Pedido Pedido { get; set; } = null!;
     public Producto Producto { get; set; } = null!;
 
-    // Propiedad calculada en base de datos
     public decimal SubTotal => Cantidad * PrecioUnitario;
 }

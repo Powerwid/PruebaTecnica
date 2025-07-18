@@ -28,11 +28,9 @@ public class TiendaDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
-        // SubTotal no se puede mapear como propiedad calculada en EF directamente (se puede usar Fluent si quieres ignorarla)
         modelBuilder.Entity<DetallePedido>()
             .Ignore(d => d.SubTotal);
 
-        // Relación 1:1 en VideoProducto (PK = FK)
         modelBuilder.Entity<VideoProducto>()
             .HasKey(v => v.IdProducto);
 
@@ -41,7 +39,6 @@ public class TiendaDbContext : DbContext
             .WithOne(p => p.VideoProducto)
             .HasForeignKey<VideoProducto>(v => v.IdProducto);
 
-        // Relaciones adicionales como ON DELETE SET NULL si las aplicaste:
         modelBuilder.Entity<Producto>()
             .HasOne(p => p.Categoria)
             .WithMany(c => c.Productos)

@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.sourcelink.json
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\bin\Debug\net9.0\Tienda.Domain.deps.json
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\bin\Debug\net9.0\Tienda.Domain.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\bin\Debug\net9.0\Tienda.Domain.pdb
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\refint\Tienda.Domain.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\Tienda.Domain.pdb
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Domain\obj\Debug\net9.0\ref\Tienda.Domain.dll

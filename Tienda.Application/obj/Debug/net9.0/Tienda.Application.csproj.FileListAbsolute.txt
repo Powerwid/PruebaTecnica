@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\bin\Debug\net9.0\Tienda.Application.deps.json
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\bin\Debug\net9.0\Tienda.Application.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\bin\Debug\net9.0\Tienda.Application.pdb
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\bin\Debug\net9.0\Tienda.Domain.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\bin\Debug\net9.0\Tienda.Domain.pdb
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.sourcelink.json
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.A.8EBB5F9B.Up2Date
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\refint\Tienda.Application.dll
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\Tienda.Application.pdb
+C:\Users\Usuario\Documents\Prueba_Tecnica\Tienda.Application\obj\Debug\net9.0\ref\Tienda.Application.dll

@@ -14,7 +14,6 @@ public class Producto
     public int IdImportacion { get; set; }
     public int IdUnidadMedida { get; set; }
 
-    // Relaciones
     public Categoria Categoria { get; set; } = null!;
     public Proveedor Proveedor { get; set; } = null!;
     public Importacion Importacion { get; set; } = null!;
